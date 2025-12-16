@@ -1,0 +1,17 @@
+# Gradle
+.gradle/
+build/
+
+# Local configuration
+local.properties
+
+# Android Studio
+.idea/
+*.iml
+
+# Logs
+*.log
+
+# Mac / Windows junk
+.DS_Store
+Thumbs.db
